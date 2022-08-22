@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/RudrakshNanavaty/RudrakshNanavaty/image.png" width="100%"/>
+  <img src="https://github.com/RudrakshNanavaty/RudrakshNanavaty/blob/main/image.png" width="100%"/>
 </div>
 
 --- 
