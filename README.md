@@ -37,7 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="64" height="64"/>&nbsp;
 <br><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora"  alt="Fedora" width="64" height="64"/>&nbsp;                                                                                                                                                 
+<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora"  alt="Fedora" width="64" height="64"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Fedora"  alt="Linux" width="64" height="64"/>&nbsp;
 </div>
 
 ---
