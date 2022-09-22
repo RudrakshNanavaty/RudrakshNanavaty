@@ -23,7 +23,7 @@
 
 ---
 
-🔭 I’m currently working on NodeJS, ExpressJS, ReactJS.
+🔭 I’m currently working on NodeJS, ExpressJS, ReactJS.<br>
 🌱 I’m currently learning Design, Working with Apis, Fundamentals of Backend, Data Structures and Algorithms.
 
 ### :hammer_and_wrench: Languages and Tools :
