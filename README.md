@@ -25,7 +25,7 @@
 		title="MySQL"  alt="MySQL" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
 		title="React" alt="React" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
-	<h3>Check out my blogs at:</h3>
+	<h3>Check out my blogs:</h3>
 		<a href="https://rudrakshnanavaty.hashnode.dev">
 			<img src="Hashnode logo.png"
 				 title="Twitter" alt="Twitter" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
