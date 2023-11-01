@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>
-		Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+		Hello 👋
 	</h1>
 </div>
 
@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-	<h3> 🛠️: Languages and Tools :</h3>
+	<h3> 🛠️ Languages and Tools</h3>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
 		title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
@@ -25,19 +25,17 @@
 		title="MySQL"  alt="MySQL" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
 		title="React" alt="React" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
-	<h3>Check out my blogs:</h3>
+	<h3>Check out my blogs</h3>
 		<a href="https://rudrakshnanavaty.hashnode.dev">
-			<img src="Hashnode logo.png"
-				 title="Twitter" alt="Twitter" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
+			<img src="Hashnode logo.png" title="Twitter" alt="Twitter" width="48" height="48"/>
 		</a>
-	<h3>Social Media:</h3>
+	<h3>Social Media</h3>
 		<a href="https://twitter.com/rdxNanavaty">
-			<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"
-				 title="Twitter" alt="Twitter" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
+			<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="48" height="48"/>
 		</a>
-		<a href="https://www.linkedin.com/in/RudrakshNanavaty/">
-			<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
-				 title="LinkedIn" alt="LinkedIn" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://www.linkedin.com/in/RudrakshNanavaty">
+			<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="48" height="48"/>
 		</a>
 
 ---
