@@ -7,29 +7,30 @@
 * An avid learner 👨‍🎓
 * Will not stop pressing "big red buttons" until I find out what each one of them does 😄
 
----
 
 <div align="center">
 	<h3> 🛠️ Languages and Tools</h3>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
-		title="JavaScript" alt="Python" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
 		title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
 		title="NodeJS" alt="NodeJS" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"
-		title="Go" alt="Go" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
+		title="Python" alt="Python" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"
+		title="Postgres" alt="Postgres" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"
 		title="MongoDB" alt="MongoDB" width="48" height="48"/>&nbsp; &nbsp; &nbsp;	
-	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
-		title="Docker" alt="Docker" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
 		title="MySQL"  alt="MySQL" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
+		title="Docker" alt="Docker" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
 		title="React" alt="React" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"
+		title="Go" alt="Go" width="48" height="48"/>&nbsp; &nbsp; &nbsp;
 	<h3>Check out my blogs</h3>
 		<a href="https://rudrakshnanavaty.hashnode.dev">
-			<img src="Hashnode logo.png" title="Twitter" alt="Twitter" width="48" height="48"/>
+			<img src="Medium Logo.jpg" title="Medium" alt="Medium" height="48"/>
 		</a>
 	<h3>Social Media</h3>
 		<a href="https://twitter.com/rdxNanavaty">
