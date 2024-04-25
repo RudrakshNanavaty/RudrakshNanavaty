@@ -4,9 +4,11 @@
 	</h1>
 </div>
 
-* An avid learner 👨‍🎓
-* Will not stop pressing "big red buttons" until I find out what each one of them does 😄
-
+<div align=center>
+	An avid learner 👨‍🎓
+	<br/>
+	Will not stop pressing "big red buttons" until I find out what each one of them does 😄
+</div>
 
 <div align="center">
 	<h3> 🛠️ Languages and Tools</h3>
