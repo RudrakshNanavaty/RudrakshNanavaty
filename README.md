@@ -24,7 +24,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,python,go&theme=dark)
 
 ### Frontend & Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,electron&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs&theme=dark)
 
 ### Databases
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase&theme=dark)
@@ -33,7 +33,7 @@
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,linux,github&theme=dark)
 
 ### Tools & Frameworks
-![My Skills](https://skillicons.dev/icons?i=git,vscode,postman,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=git,vscode,postman&theme=dark)
 
 ---
 
