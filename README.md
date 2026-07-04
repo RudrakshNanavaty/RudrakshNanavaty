@@ -3,19 +3,15 @@
 # 👋 Hello there!
 # I'm Rudraksh Nanavaty.
 
-### Full-Stack Developer | Open-Source Advocate | Problem Solver 🚀
+### Full-Stack Developer | Open-Source Advocate
 
-### 💬 The best way to predict the future is to invent it.
+## 🌐 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/RudrakshNanavaty)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Rudraksh_1514)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rudrakshnanavaty@gmail.com)
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 Full-stack developer with experience building scalable solutions for **US & Canadian startups**
-- 🌱 Currently exploring **Agentic AI, LangGraph, and Voice AI pipelines**
-- 💡 Built **RAG-powered applications** and **full-stack web platforms**
 
 ---
 
@@ -39,10 +35,5 @@
 ![My Skills](https://skillicons.dev/icons?i=git,vscode,postman&theme=dark)
 
 ---
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/RudrakshNanavaty)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rudrakshnanavaty@gmail.com)
 
 </div>
